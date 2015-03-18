@@ -1,0 +1,4 @@
+C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\classes\debug
+C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-4620bd0293ec661577f65223aa711b9123803d70.jar
+C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9b31dc7138125ceed5b368dcbcef769957f17d02.jar
+C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\classes-e525abd1ef707021ba8fb1bc7ced28dca2642a07.jar
