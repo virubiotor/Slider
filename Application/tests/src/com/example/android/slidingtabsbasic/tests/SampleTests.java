@@ -40,13 +40,13 @@ import android.test.ActivityInstrumentationTestCase2;
 /**
 * Tests for SlidingTabsBasic sample.
 */
-public class SampleTests extends ActivityInstrumentationTestCase2<MainActivity> {
+public class SampleTests extends ActivityInstrumentationTestCase2<SlidingTabs> {
 
-    private MainActivity mTestActivity;
+    private SlidingTabs mTestActivity;
     private SlidingTabsBasicFragment mTestFragment;
 
     public SampleTests() {
-        super(MainActivity.class);
+        super(SlidingTabs.class);
     }
 
     @Override

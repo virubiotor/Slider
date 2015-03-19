@@ -1,4 +1,4 @@
-C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\classes\debug
-C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-4620bd0293ec661577f65223aa711b9123803d70.jar
-C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9b31dc7138125ceed5b368dcbcef769957f17d02.jar
-C:\Users\miauen\Desktop\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\classes-e525abd1ef707021ba8fb1bc7ced28dca2642a07.jar
+C:\Users\Alumno\Desktop\Slider\Application\build\intermediates\classes\debug
+C:\Users\Alumno\Desktop\Slider\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e8db2a690e97dcf57becbc86739eaf8cb6b61a93.jar
+C:\Users\Alumno\Desktop\Slider\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-f7266c93519b0ba179b24c1952f54f5237e10feb.jar
+C:\Users\Alumno\Desktop\Slider\Application\build\intermediates\pre-dexed\debug\classes-46a3a614a89b66ecdf0e99f4bf8b471a2c767c5e.jar
